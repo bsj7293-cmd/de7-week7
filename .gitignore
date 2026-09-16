@@ -1,0 +1,11 @@
+# Airflow
+logs/
+output/
+__pycache__/
+*.pyc
+
+# 실습 데이터
+data/
+
+# 자격증명
+*.pem

@@ -3,6 +3,7 @@ logs/
 output/
 __pycache__/
 *.pyc
+.venv/
 
 # 실습 데이터
 data/
